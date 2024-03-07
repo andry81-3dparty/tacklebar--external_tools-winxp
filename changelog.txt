@@ -1,3 +1,6 @@
+2024.03.07:
+* changed: README_EN.txt: readme update
+
 2024.01.11:
 * new: deploy/python/2.x: content moved from `tacklebar` project
 * changed: README_EN.txt: readme update

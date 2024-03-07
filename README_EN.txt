@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2024.01.11
+* 2024.03.07
 * tacklebar--external_tools-winxp
 
 1. DESCRIPTION
@@ -17,13 +17,13 @@ External Windows XP+ tools for `tacklebar--external_tools` project.
 -------------------------------------------------------------------------------
 Primary:
   * https://github.com/andry81-3dparty/tacklebar--external_tools-winxp/branches
-  * https://github.com/andry81-3dparty/tacklebar--external_tools-winxp.git
+    https://github.com/andry81-3dparty/tacklebar--external_tools-winxp.git
 First mirror:
   * https://sf.net/p/external-tools/tacklebar--external_tools-winxp/ci/master/tree
-  * https://git.code.sf.net/p/tacklebar/external_tools-winxp
+    https://git.code.sf.net/p/tacklebar/external_tools-winxp
 Second mirror:
   * https://gitlab.com/andry81-3dparty/tacklebar-external_tools-winxp/-/branches
-  * https://gitlab.com/andry81-3dparty/tacklebar-external_tools-winxp.git
+    https://gitlab.com/andry81-3dparty/tacklebar-external_tools-winxp.git
 
 -------------------------------------------------------------------------------
 3. DISTRIBUTION
@@ -59,6 +59,10 @@ Catalog of applications, tools, modules and files included in the distribution:
     - 2.16.8 32-bit
 
   * Visual C++ 2008 Redistributables
+
+    https://www.catalog.update.microsoft.com/Search.aspx?q=kb2538243
+    Dependency for the Python 2.7.x DLL linked with Notepad++ PythonScript
+    plugin.
 
     - 9.0.30729.5677
 
