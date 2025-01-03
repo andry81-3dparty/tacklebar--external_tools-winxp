@@ -1,0 +1,20 @@
+2025.01.02:
+* new: apps/winmerge/WinMerge-2.16.2-x64-Setup.exe: working version under `Windows XP x64 SP2`
+* changed: README_EN.txt: added links about commit trees, tags, hashes and virus total checks
+
+2024.03.07:
+* changed: README_EN.txt: readme update
+
+2024.01.11:
+* new: deploy/python/2.x: content moved from `tacklebar` project
+* changed: README_EN.txt: readme update
+
+2024.01.04:
+* changed: apps, deploy, README_EN.txt: content is moved from `tacklebar--external_tools` project
+
+2021.01.08:
+* changed: apps/notepad++: upgrade Notepad++ from 7.9.1 to 7.9.2
+
+2020.11.24:
+* new: changelog file
+* new: initial repository files

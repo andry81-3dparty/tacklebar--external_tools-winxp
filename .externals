@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/20250102:
+    type:             git
+    url:              https://github.com/andry81-3dparty/tacklebar--external_tools-winxp
+    version:          20250102
+    fetch-to-branch:  20250102
